@@ -1,0 +1,9 @@
+.switch{
+    background-color: #559ECC;
+    color: white;
+    width: 224px;
+    height: 41px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    text-align: center;
+}
